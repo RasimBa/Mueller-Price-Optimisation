@@ -15,13 +15,13 @@ The project uses two datasets:
 
 ## Repository Structure
 
-Mueller-Price-Optimisation/
-│── data_files/
-│   ├── sales.csv
-│   ├── product.csv
-│── jupyter_files/
-│   ├── Mueller Price Optimisation.ipynb
-│── README.md
+- **Mueller-Price-Optimisation/**
+  - **data_files/**
+    - `sales.csv`
+    - `product.csv`
+  - **jupyter_files/**
+    - `Mueller Price Optimisation.ipynb`
+  - `README.md`
 
 
 ## Usage
